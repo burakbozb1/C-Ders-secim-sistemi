@@ -1,4 +1,4 @@
-# C-Ders-secim-sistemi
+# C - Ders seçim sistemi
 C ile kapsamlı bir ders seçim sistemidir. File işlemleri, ilişkisel veritabanı mantığı ile kullanılmıştır.
 Problemi detaylı incelemek için Problem.pdf dosyasını inceleyiniz.
 
