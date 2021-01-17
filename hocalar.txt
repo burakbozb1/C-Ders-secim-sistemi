@@ -1,0 +1,10 @@
+1	banu diri	prof
+2	ahmet elbir	ogretim gorevlisi
+3	gokhan bilgin	prof
+4	erkan uslu	doktor
+5	baki aksal	prof
+6	oguz altun	doktor
+7	hamza osman ilhan	doktor
+8	mehmet amac guvensan	doktor
+9	sercan aygun	arastirma gorevlisi
+10	mehmet emin koroglu	prof

@@ -1,0 +1,7 @@
+2111001	burak boz	5	16
+2111002	batuhan saglam	3	12
+2111003	ayberk kabaci	4	14
+2111004	caner kement	3	11
+2111006	muhsin aydin	4	14
+2111007	serhat duymaz	2	7
+2111008	furkan koc	5	17
